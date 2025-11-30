@@ -34,9 +34,9 @@ March 2020 created a supply & demand mismatch across all food categories leaving
 - **Excel** - Initial data validation and structure review
 
 ## Tools Used
--Tableau Desktop 
--Excel 
--Bureau of Economic Analysis (BEA) Data — Personal Consumption Expenditures (2016-2021)
+- Tableau Desktop 
+- Excel 
+- Bureau of Economic Analysis (BEA) Data — Personal Consumption Expenditures (2016-2021)
 
 ---
 
