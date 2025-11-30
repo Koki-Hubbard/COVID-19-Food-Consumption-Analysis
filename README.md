@@ -25,6 +25,10 @@ March 2020 created a supply & demand mismatch across all food categories leaving
 - Fast initial rebound: By May 2020, categories had recovered 45-60% of their March spike, suggesting demand stabilization occurs faster than supply chain adjustment
 - Large variance by category: Peak disruption ranged from 21% (sugar/sweets) to 27% (fresh fruit), meaning a generic inventory strategy would have been costly
 
+![March & May YoY % Change](screenshots/March%May%YoY%Change.PNG)
+![Recovery Timeline](screenshots/Recovery%Timeline.PNG)
+![KPIs](screenshots/KPIs.PNG)
+
 ### Recommendations
 - Safety stock by category type: Maintain 15-20% buffer for fresh produce; reduce to 5-10% for discretionary items during disruption events
 - Implement monitoring windows: Most categories stabilize within 2 months post-shock with some exceptions (fresh produce) require extended 4-6 month plans
@@ -41,5 +45,5 @@ March 2020 created a supply & demand mismatch across all food categories leaving
 ---
 
 ## Project Files
-
+https://public.tableau.com/views/COVIDProject_17640462221640/COVID-19SupplyChainImpact?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
