@@ -25,8 +25,8 @@ March 2020 created a supply & demand mismatch across all food categories leaving
 - Fast initial rebound: By May 2020, categories had recovered 45-60% of their March spike, suggesting demand stabilization occurs faster than supply chain adjustment
 - Large variance by category: Peak disruption ranged from 21% (sugar/sweets) to 27% (fresh fruit), meaning a generic inventory strategy would have been costly
 
-![March & May YoY % Change](screenshots/March%May%YoY%Change.PNG)
-![Recovery Timeline](screenshots/Recovery%Timeline.PNG)
+![March & May YoY % Change](screenshots/March%20May%20YoY%20Change.PNG)
+![Recovery Timeline](screenshots/Recovery%20Timeline.PNG)
 ![KPIs](screenshots/KPIs.PNG)
 
 ### Recommendations
